@@ -70,7 +70,7 @@ All these are optional add-ons so you can skip these steps if you don't need/wan
 - Thread cord through the strap holes to make your straps.
 
 <Note>
-
+Vents and stap holes are marked by buttons on the patterns.  
 All markings on the pattern are a suggested placement/number of snaps, vents and strap holes, they are not set in stone so you do you :)
 
 </Note>
