@@ -66,7 +66,7 @@ All these are optional add-ons so you can skip these steps if you don't need/wan
 
 - If using attach snaps to crown side and brims where marked on the pattern, making sure the stud is on the crown and the socket is on the brim.
 - If needed, Construct eyelets at vent marks.
-- If needed, Construct eyelets at strap marks being careful not to daamge the bottom seam allowances.
+- If needed, Construct eyelets at strap marks being careful not to damge the bottom seam allowances.
 - Thread cord through the strap holes to make your straps.
 
 <Note>
